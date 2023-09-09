@@ -26,9 +26,9 @@ func main() {
 		fmt.Scan(&userName)
 		fmt.Print("Enter your Last Name:")
 		fmt.Scan(&lastName)
-		fmt.Print("Enter your e-Mail address:")
+		fmt.Print("Enter your E-Mail Address:")
 		fmt.Scan(&email)
-		fmt.Print("Enter the number of Tickets:")
+		fmt.Print("Enter the Number of Tickets:")
 		fmt.Scan(&userTickets)
 
 		//checking user inputs
