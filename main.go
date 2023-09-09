@@ -1,7 +1,7 @@
 package main //everything is a package. So we need to declare it first. Before that use go mod init booking-app to initialize.
 
 import (
-	"fmt" //important for print
+	"fmt" //important for print. This is very important if you need to use print statements.
 	"strings"
 )
 
