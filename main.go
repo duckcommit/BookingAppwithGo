@@ -67,7 +67,7 @@ func main() {
 			if !isValidTicket{
 				fmt.Println("Invalid Ticket")
 			}
-			fmt.Println("User Data Invalid")
+			fmt.Println("User Data Invalid!! Check once and try again")
 		}
 	}
 }
