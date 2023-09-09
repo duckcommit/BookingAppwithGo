@@ -13,7 +13,7 @@ func main() {
 	var bookings []string //array, []is slice
 	//or use bookings :[]string{}
 
-	fmt.Println("Welcome to", conferenceName, "Booking Application. Get your Tickets here")
+	fmt.Println("Welcome to the", conferenceName, "Booking Application. Get your Tickets here")
 	fmt.Printf("We have a total of %v tickets and %v remaining tickets.\n", conferenceTickets, remainingTickets) //fortmat using placeholder, %T if used returns type.
 
 	for remainingTickets > 0 {
